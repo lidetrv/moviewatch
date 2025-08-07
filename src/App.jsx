@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import Spinner from './spinner.jsx';
+import Spinner from './Spinner.jsx';
 import Search from './components/Search.jsx';
 import MovieCard from './components/MovieCard.jsx';
 import { useDebounce } from 'react-use';
